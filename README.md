@@ -7,7 +7,7 @@ Sou Desenvolvedor Front-End, atualmente trabalhando como autônomo realizando pe
 Apaixonado por programação e apreciador de novas culturas, gosto de praticar esportes (Futebol & Basquete), ler livros e assistir filmes e séries.
 
 Estou graduando em Análise e Desenvolvimento de Sistemas pela universidade Anhanguera Educacional.
-Previsão de conclusão: Dezembro/2021.
+Previsão de conclusão: Dezembro / 2021.
 
 ## Meu Linkedin:
 <a href="https://www.linkedin.com/in/fernando-borel-devfer/" target="_blank">
