@@ -2,7 +2,7 @@
 
 ## Me chamo Fernando, sou natural do Rio de Janeiro.
 
-Sou Desenvolvedor Front-End, atualmente trabalhando como autônomo realizando pequenos projetos.
+### Sou Desenvolvedor Front-End, atualmente trabalhando como autônomo realizando pequenos projetos.
 
 Apaixonado por programação e apreciador de novas culturas, gosto de praticar esportes (Futebol & Basquete), ler livros e assistir filmes e séries.
 
@@ -24,6 +24,8 @@ Previsão de conclusão: Dezembro / 2021.
 
 ![fernando borel GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandoborel&show_icons=true&theme=chartreuse-dark)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoborel)](https://github.com/fernandoborel/github-readme-stats)
 
 <!--
 **fernandoborel/fernandoborel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
