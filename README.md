@@ -6,8 +6,21 @@
 
 Apaixonado por programação e apreciador de novas culturas, gosto de praticar esportes (Futebol & Basquete), ler livros e assistir filmes e séries.
 
-Estou graduando em Análise e Desenvolvimento de Sistemas pela universidade Anhanguera Educacional.
-Previsão de conclusão: Dezembro / 2021.
+Graduado em Análise e Desenvolvimento de Sistemas pela universidade Anhanguera Educacional.
+
+## Alguns dos meus projetos:
+Projeto Pizzaria: https://fernandoborel.github.io/projeto-pizzaria/
+
+Jogo da Velha: https://fernandoborel.github.io/jogodavelha/
+
+Descubra o clima: https://fernandoborel.github.io/descubra-o-clima/
+
+Relógio Analógico: https://fernandoborel.github.io/relogio-analogico/
+
+To do List: https://fernandoborel.github.io/ToDoList/
+
+Psg X Jordan: https://fernandoborel.github.io/PsgxJordan2.0/
+
 
 ## Meu Linkedin:
 <a href="https://www.linkedin.com/in/fernando-borel-devfer/" target="_blank">
