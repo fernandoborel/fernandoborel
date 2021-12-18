@@ -11,6 +11,8 @@ Graduado em Análise e Desenvolvimento de Sistemas pela universidade Anhanguera 
 ## Alguns dos meus projetos:
 Projeto Pizzaria: https://fernandoborel.github.io/projeto-pizzaria/
 
+Quiz Web: https://fernandoborel.github.io/quizweb/ 
+
 Jogo da Velha: https://fernandoborel.github.io/jogodavelha/
 
 Descubra o clima: https://fernandoborel.github.io/descubra-o-clima/
