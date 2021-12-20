@@ -4,9 +4,9 @@
 
 ### Sou Desenvolvedor Front-End, atualmente trabalhando como autônomo realizando pequenos projetos.
 
-Apaixonado por programação e apreciador de novas culturas, gosto de praticar esportes (Futebol & Basquete), ler livros e assistir filmes e séries.
+### Apaixonado por programação e apreciador de novas culturas, gosto de praticar esportes (Futebol & Basquete), ler livros e assistir filmes e séries.
 
-Graduado em Análise e Desenvolvimento de Sistemas pela universidade Anhanguera Educacional.
+### Graduado em Análise e Desenvolvimento de Sistemas pela universidade Anhanguera Educacional.
 
 ## Alguns dos meus projetos:
 Projeto Pizzaria: https://fernandoborel.github.io/projeto-pizzaria/
