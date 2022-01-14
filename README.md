@@ -39,10 +39,7 @@ Psg X Jordan: https://fernandoborel.github.io/PsgxJordan2.0/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50" width="60"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="50" width="60"></img>
 
-![fernando borel GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandoborel&show_icons=true&theme=chartreuse-dark)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoborel)](https://github.com/fernandoborel/github-readme-stats)
 
 <!--
 **fernandoborel/fernandoborel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
