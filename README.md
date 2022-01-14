@@ -2,7 +2,7 @@
 
 ## Me chamo Fernando, sou natural do Rio de Janeiro.
 
-### Sou Desenvolvedor Front-End, atualmente trabalhando como autônomo realizando pequenos projetos.
+### Sou Desenvolvedor Front-End, atualmente trabalhando como autônomo realizando projetos.
 
 ### Apaixonado por programação e apreciador de novas culturas, gosto de praticar esportes (Futebol & Basquete), ler livros e assistir filmes e séries.
 
