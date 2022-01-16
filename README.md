@@ -40,9 +40,6 @@ Psg X Jordan: https://fernandoborel.github.io/PsgxJordan2.0/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="50" width="60"></img>
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandoborel&show_icons=true&theme=radical)
-
 <!--
 **fernandoborel/fernandoborel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
