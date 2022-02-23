@@ -2,7 +2,7 @@
 
 ## Me chamo Fernando, sou natural do Rio de Janeiro.
 
-### Sou Desenvolvedor Front-End, atualmente trabalhando como autônomo realizando projetos.
+### Em Fevereiro de 2022 passei a atuar como desenvolvedor front-end jr na Ecalc Software.
 
 ### Apaixonado por programação e apreciador de novas culturas, gosto de praticar esportes (Futebol & Basquete), ler livros e assistir filmes e séries.
 
