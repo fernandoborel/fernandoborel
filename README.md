@@ -9,6 +9,9 @@
 ### Graduado em Análise e Desenvolvimento de Sistemas pela universidade Anhanguera Educacional.
 
 ## Alguns dos meus projetos:
+
+AluraTube: https://alura-tube-zeta.vercel.app/
+
 Projeto Pizzaria: https://fernandoborel.github.io/projeto-pizzaria/
 
 Quiz Web: https://fernandoborel.github.io/quizweb/ 
