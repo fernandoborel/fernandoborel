@@ -43,7 +43,11 @@ Psg X Jordan: https://fernandoborel.github.io/PsgxJordan2.0/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50" width="60"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="50" width="60"></img>
 
-
+<div>
+  <a href="https://github.com/fernandoborel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandoborel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoborel&layout=compact&langs_count=16&theme=radical"/>
+</div>
 
 
 <!--
