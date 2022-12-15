@@ -2,9 +2,9 @@
 
 ## Me chamo Fernando, sou natural do Rio de Janeiro.
 
-### Desenvolvedor front-end - React
+### Desenvolvedor Frontend | React | JavaScript
 
-### Apaixonado por programação e apreciador de novas culturas, gosto de praticar esportes (Futebol & Basquete), ler livros e assistir filmes e séries.
+### Apaixonado por programação e apreciador de novas culturas, gosto de praticar esportes (Futebol & Basquete), ler livros, assistir filmes e séries.
 
 ### Graduado em Análise e Desenvolvimento de Sistemas pela universidade Anhanguera Educacional.
 
