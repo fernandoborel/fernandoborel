@@ -10,6 +10,16 @@
 
 ## Projetos:
 <div>
+    <h3>Dogs</h3>
+    <a href="https://dogs-khaki.vercel.app/">
+      <img src="https://user-images.githubusercontent.com/87503905/209885283-3620e2a5-5990-45f7-9d73-bea28bcfa337.png" height="400px" width="500px"/>
+    </a>
+  <p>Rede social de pets (Em construção)</p>
+  <p>link: <span>https://dogs-khaki.vercel.app/</span></p>
+</div>
+
+<hr/>
+<div>
     <h3>AluraTube</h3>
     <a href="https://alura-tube-zeta.vercel.app/">
       <img src="https://user-images.githubusercontent.com/87503905/209556491-5bc69cfc-33b1-4274-8a5e-864347b2042c.png" height="400px" width="400px"/>
