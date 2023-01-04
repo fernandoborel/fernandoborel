@@ -15,6 +15,7 @@
       <img src="https://user-images.githubusercontent.com/87503905/209885283-3620e2a5-5990-45f7-9d73-bea28bcfa337.png" height="auto" max-width="100%"/>
     </a>
   <p>Rede social de Dogs, feito com React | JavaScript</p>
+    <span>Para realizar testes: Login: dog  senha: dog</span>
   <p>link: <span>https://dogs-khaki.vercel.app/</span></p>
 </div>
 
