@@ -2,7 +2,7 @@
 
 ## Me chamo Fernando, sou natural do Rio de Janeiro.
 
-### Desenvolvedor Frontend | React | JavaScript | C#
+### Desenvolvedor de software | C# | ASP .NET CORE | JavaScript | React | HTML | CSS
 
 ### Apaixonado por programação e apreciador de novas culturas, gosto de praticar esportes (Futebol & Basquete), ler livros, assistir filmes e séries.
 
