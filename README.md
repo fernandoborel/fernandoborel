@@ -53,7 +53,7 @@
 
 <div>
   <h3>Empresas</h3>
-  <a href="https://github.com/fernandoborel/ApiEmpresas"><p>Api que simula uma empresa que cadastra funcionários e empresas, desenvolvida em .NET.</p></a>
+  <a href="https://github.com/fernandoborel/ApiEmpresas"><p>Api que simula uma empresa que cadastra funcionários e empresas, feita em DDD e TDD. Desenvolvida em .NET.</p></a>
 </div>
 
 <hr/>
