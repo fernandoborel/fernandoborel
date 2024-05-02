@@ -36,67 +36,40 @@
 
 ## Projetos:
 <div>
+    <h3>Central de Usuários</h3>
+    <a href="https://github.com/fernandoborel/CentralDeUsuarios">
+        <p>Api que simula uma central de usuários, feita em DDD e TDD. Desenvolvida em .NET.</p>
+    </a>
+</div>
+
+<hr/>
+
+<div>
     <h3>Rede Social</h3>
-    <a href="https://github.com/fernandoborel/RedeSocial.Api"><p>Api que simula uma rede social, desenvolvida em .NET 8</p></a>
+    <a href="https://github.com/fernandoborel/RedeSocial.Api"><p>Api que simula uma rede social, feita em DDD e TDD. Desenvolvida em .NET.</p></a>
 </div>
 
 <hr/>
 
 <div>
   <h3>Empresas</h3>
-  <a href="https://github.com/fernandoborel/ApiEmpresas"><p>Api que simula uma empresa que cadastra funcionários e empresas</p></a>
+  <a href="https://github.com/fernandoborel/ApiEmpresas"><p>Api que simula uma empresa que cadastra funcionários e empresas, desenvolvida em .NET.</p></a>
 </div>
 
 <hr/>
   
   
 <div>
-    <h3>AluraTube</h3>
-    <a href="https://alura-tube-zeta.vercel.app/"><p>Clone do YouTube feito com: React | Next.js</p></a>  
+    <h3>Produtos</h3>
+    <a href="https://github.com/fernandoborel/Produtos.Api"><p>Api que simula um estoque de produtos, feito com TDD e DDD. Desenvolvida em .NET.</p></a>  
 </div>
 
 <hr/>
 
 <div>
-    <h3>Pizzaria</h3>
-    <a href="https://fernandoborel.github.io/projeto-pizzaria/">
-        <p>Simulação de um e-commerce, feito com: HTML | CSS | JavaScript</p>
-    </a>
-</div>
-
-<hr/>
-
-<div>
-    <h3>Quiz</h3>
-    <a href="https://fernandoborel.github.io/quizweb/">
-        <p>Quiz Web, feito com: HTML | CSS | JavaScript</p>
-    </a>
-</div>
-
-<hr/>
-
-<div>
-    <h3>Jogo da Velha</h3>
-    <a href="https://fernandoborel.github.io/jogodavelha/">
-        <p>Simulação de um jogo da velha, feito com: HTML | CSS | JavaScript</p>
-    </a>
-</div>
-
-<hr/>
-
-<div>
-    <h3>Descubra o clima</h3>
-    <a href="https://fernandoborel.github.io/descubra-o-clima/">
-        <p>Clima em tempo real, feito com: HTML | CSS | JavaScript</p>
-    </a>
-</div>
-
-<hr/>
-
-<div>
-    <h3>Relógio Analógico</h3>
-    <a href="https://fernandoborel.github.io/relogio-analogico/">
-        <p>Horário em tempo real, feito com: HTML | CSS | JavaScript</p>
+    <h3>Filmes</h3>
+    <a href="https://github.com/fernandoborel/Filmes.Api">
+        <p>Api que simula um cadastro de filmes, feita em DDD e TDD. Desenvolvida em .NET.</p>
     </a>
 </div>
 
