@@ -36,16 +36,15 @@
 
 ## Projetos:
 <div>
-    <h3>Dogs</h3>
-    <a href="https://dogs-khaki.vercel.app/"><p>Rede social de Dogs, feito com React | JavaScript</p></a>
-    <p>Para realizar testes: Login: dog  senha: dog</p>
+    <h3>Rede Social</h3>
+    <a href="https://github.com/fernandoborel/RedeSocial.Api"><p>Api que simula uma rede social, desenvolvida em .NET 8</p></a>
 </div>
 
 <hr/>
 
 <div>
-  <h3>Lista de tarefas, utilizando: ASP.Net Core</h3>
-  <p>Repositório: https://github.com/fernandoborel/ToDoListC</p>
+  <h3>Empresas</h3>
+  <a href="https://github.com/fernandoborel/ApiEmpresas"><p>Api que simula uma empresa que cadastra funcionários e empresas</p></a>
 </div>
 
 <hr/>
